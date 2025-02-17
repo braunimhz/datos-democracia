@@ -8,3 +8,4 @@ p_load(
 )
 #Hice un cambio
 #Juan Kamilo no enseña bien
+#ayuda no me sirve R
